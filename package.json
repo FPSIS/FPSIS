@@ -1,0 +1,22 @@
+{
+  "name": "fpsis",
+  "version": "1.0.0",
+  "description": "FPSIS Website",
+  "main": "index.js",
+  "scripts": {
+	"start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "FPSIS"
+  ],
+  "author": "FPSIS",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
